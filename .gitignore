@@ -1,0 +1,10 @@
+.env
+.claude/
+AZ PB app.pdf
+app/data/*.db
+app/data/*.db-journal
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
